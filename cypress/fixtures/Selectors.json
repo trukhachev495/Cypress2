@@ -1,0 +1,8 @@
+{
+    "email": "E-mail",
+    "password": "Пароль",
+    "buttonLogin": ".login__button",
+    "TextHallManagement": "Управление залами",
+    "Login Error": "Ошибка авторизации!",
+    "TextAdmin": "Администраторррская"
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "negativeTest": "negative input",
+        "LoginAndPassword": {
+            "login": "qamid@qamid.ru",
+            "password": "123"
+        }
+    }
+]

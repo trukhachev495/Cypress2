@@ -1,0 +1,31 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "browsers": {
+    "chrome": {
+      "name": "Chrome",
+      "family": "chromium",
+      "channel": "chrome"
+    },
+    "firefox": {
+      "name": "Firefox",
+      "family": "firefox",
+      "channel": "mozilla"
+    }
+  }
+}
